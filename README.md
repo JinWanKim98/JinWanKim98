@@ -5,6 +5,12 @@ Looking for a data analyst role. I work mostly in Python and SQL, with Power BI 
 
 **Portfolio: [jinwankim98.github.io](https://jinwankim98.github.io/)**
 
+## Tech stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-316192?style=flat) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+
+Used across the projects below for data preparation, analysis, model evaluation and dashboards. Additional coursework covers MongoDB, C++ and requirements modelling.
+
 ## Projects
 
 **[singapore-hdb-analysis](https://github.com/JinWanKim98/singapore-hdb-analysis)** — adjusted comparisons.
@@ -16,8 +22,8 @@ Ten course-supplied queries with execution plans before and after the indexes I 
 sequential scan and reported the same 7,836 shared buffer accesses on both runs.
 
 **[shipping-delay-prediction](https://github.com/JinWanKim98/shipping-delay-prediction)** — precision–recall trade-off.
-10,999 orders. Flagging every order gives 100% recall at 59.68% accuracy; GaussianNB flags 582 at
-0.955 precision, the neural network 986 at 0.783.
+On a 2,200-order test set from 10,999 orders, flagging every order gives 100% recall at 59.68%
+accuracy. GaussianNB flags 582 at 0.955 precision; the neural network flags 986 at 0.783.
 
 **[weather-feature-engineering](https://github.com/JinWanKim98/weather-feature-engineering)** — feature engineering.
 Four-person group project on 145,460 observations; I did the exploration, cleaning, derived features
@@ -40,8 +46,8 @@ Three separate CSCI 251 assignments covering file parsing, virtual dispatch and 
 with explicit specialisations.
 
 **[python-oop](https://github.com/JinWanKim98/python-oop)** — OOP development.
-How my use of classes changed between a 2024 group tour-booking project, registered to five with four
-contributing code, and three individual 2025 assignments.
+A 2024 group tour-booking project and three individual 2025 assignments covering composition,
+abstract classes and CSV validation.
 
 ## Contact
 
