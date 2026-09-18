@@ -7,9 +7,17 @@ Looking for a data analyst role. I work mostly in Python and SQL, with Power BI 
 
 ## Tech stack
 
+**Data analysis and modelling**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-316192?style=flat) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 
-Used across the projects below for data preparation, analysis, model evaluation and dashboards. Additional coursework covers MongoDB, C++ and requirements modelling.
+Used across the projects below for data preparation, analysis, model evaluation and dashboards.
+
+**Additional coursework**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![C++11](https://img.shields.io/badge/C%2B%2B11-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+MongoDB document design and aggregation; C++ programs using virtual dispatch and templates. The fundraising project also documents my work on requirements and system design.
 
 ## Projects
 
