@@ -54,8 +54,8 @@ Three separate CSCI 251 assignments covering file parsing, virtual dispatch and 
 with explicit specialisations.
 
 **[python-oop](https://github.com/JinWanKim98/python-oop)** — OOP development.
-A 2024 group tour-booking project and three individual 2025 assignments covering composition,
-abstract classes and CSV validation.
+Three individual 2025 assignments covering composition, abstract classes and CSV validation,
+alongside a 2024 tour-booking project that was group work (five registered, four contributing code).
 
 ## Contact
 
