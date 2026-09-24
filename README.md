@@ -1,6 +1,6 @@
 # Jin Wan Kim
 
-Final-year BSc Computer Science (Artificial Intelligence and Big Data), UOW at SIM Singapore. Graduating March 2027.
+Final-year Bachelor of Computer Science (Artificial Intelligence and Big Data), UOW at SIM Singapore. Graduating March 2027.
 Looking for a data analyst role. I work mostly in Python and SQL, with Power BI for dashboards.
 
 **Portfolio: [jinwankim98.github.io](https://jinwankim98.github.io/)**
