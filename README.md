@@ -35,7 +35,7 @@ accuracy. GaussianNB flags 582 at 0.955 precision; the neural network flags 986 
 
 **[weather-feature-engineering](https://github.com/JinWanKim98/weather-feature-engineering)** — feature engineering.
 Four-person group project on 145,460 observations; I did the exploration, cleaning, derived features
-and preprocessing pipeline, with the derived columns behind a switch the model search could set.
+and preprocessing pipeline, with the two derived features made optional through an on/off switch.
 
 **[wine-quality-regression](https://github.com/JinWanKim98/wine-quality-regression)** — baseline comparison.
 Five-person group project; I implemented the linear regression baseline against the team's ensembles,
@@ -50,7 +50,7 @@ Six-person project with 42 user stories; I was on the documentation team and wro
 use case descriptions #37–42, plus the BCE class and sequence diagrams for 14 use cases.
 
 **[cpp-polymorphism-two-ways](https://github.com/JinWanKim98/cpp-polymorphism-two-ways)** — runtime and template dispatch.
-Three separate CSCI 251 assignments covering file parsing, virtual dispatch and function templates
+Three separate C++ assignments covering file parsing, virtual dispatch and function templates
 with explicit specialisations.
 
 **[python-oop](https://github.com/JinWanKim98/python-oop)** — OOP development.
