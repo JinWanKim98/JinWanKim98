@@ -1,7 +1,7 @@
 # Jin Wan Kim
 
 Final-year Bachelor of Computer Science (Artificial Intelligence and Big Data), UOW at SIM Singapore. Graduating March 2027.
-Looking for a data analyst role. I work mostly in Python and SQL, with Power BI for dashboards.
+I work mostly in Python and SQL, with Power BI for dashboards and Excel for financial models.
 
 **Portfolio: [jinwankim98.github.io](https://jinwankim98.github.io/)**
 
@@ -9,7 +9,7 @@ Looking for a data analyst role. I work mostly in Python and SQL, with Power BI 
 
 **Data analysis and modelling**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-316192?style=flat) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-316192?style=flat) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 
 Used across the projects below for data preparation, analysis, model evaluation and dashboards.
 
@@ -19,7 +19,22 @@ Used across the projects below for data preparation, analysis, model evaluation 
 
 MongoDB document design and aggregation; C++ programs using virtual dispatch and templates. The fundraising project also documents my work on requirements and system design.
 
-## Projects
+## Main projects
+
+**[customer-conversion-analysis](https://github.com/JinWanKim98/customer-conversion-analysis)** — funnel and A/B test.
+In an electronics store's event logs, 3.67% of session-product groups went from view to cart to purchase
+in order, against 1.34% for TVs. In a separate email experiment, the Mens-merchandise email raised the
+purchase rate by 0.6805 percentage points and the Womens-merchandise email by 0.3111 points.
+
+**[payment-financial-analysis](https://github.com/JinWanKim98/payment-financial-analysis)** — financial statements.
+Visa and Mastercard, FY2021–2025, from SEC filings. Visa's FY2025 revenue grew 11.34% while its operating
+margin fell 5.69 percentage points to 59.99%. Includes an Excel scenario model.
+
+**[content-safety-qa-analysis](https://github.com/JinWanKim98/content-safety-qa-analysis)** — rating quality and review sampling.
+350 chatbot conversations rated by 123 people. With 35 conversations to review, random selection found
+10.02% of the judgments that missed unsafe content on average, while a fixed most-severe-first rule found 2.90%.
+
+## Earlier projects
 
 **[singapore-hdb-analysis](https://github.com/JinWanKim98/singapore-hdb-analysis)** — adjusted comparisons.
 216,375 resale transactions. Within town and year, 4-room flats show a slope of about SGD 87 per sqm
